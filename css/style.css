@@ -1,0 +1,22 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Roboto", sans-serif
+}
+.s-max-width-1400{
+	max-width:1400px;
+}
+.s-width-100pr{
+	width:100%;
+}
+
+.s-width-55pr{
+	width:55%;
+}
+.s-width-25pr{
+	width:25%;
+}
+.s-width-20pr{
+	width:20%;
+}
+.s-height-24{
+	height:24px;
+}
